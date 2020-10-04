@@ -1,4 +1,4 @@
-# Performance Engineering Questions
+# ⚡ Performance Engineering Questions
 
 ## ✨ Overview
 As a performance tester/engineer, we have to understand of almost everything about the project, application and what not. To acquire that knowledge we need to ask questions to the architects, developers, product owners etc.
@@ -90,3 +90,7 @@ No questions are stupid, only the answers are. This repository will list out the
  - What is the escalation process?
  - What are all the risks involved in this project and its mitigation plan?
  - List of contacts of developers, architects, and others
+
+## 🙏 Contributions
+
+All kinds of contributions are welcome. Please submit a [PR](https://github.com/QAInsights/Performance-Engineering-Questions/pulls).
