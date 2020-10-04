@@ -25,6 +25,10 @@ No questions are stupid, only the answers are. This repository will list out the
  - Is the application served over HTTPS?
  - Is the application on cloud?
  - Is the auto scaling turned on?
+ - Is caching enabled?
+ - Is the application load balanced?
+ - Is the firewall enabled?
+ - Is proxy required to access the application?
 
 ### 🌐 Environment
 
@@ -36,6 +40,7 @@ No questions are stupid, only the answers are. This repository will list out the
  - Is APM solution available?
  - Is the performance testing environment up-to-date?
  - Is the application under test stable?
+ - Do I get access to start/stop/restart the servers?
 
 ### 👨‍👩‍👧‍👦 End Users
 
@@ -81,6 +86,11 @@ No questions are stupid, only the answers are. This repository will list out the
 
  - Types of performance testing in scope
  - Is the workload model design available?
+ - Is IP spoofing required?
+ - Ramp up, steady state, and ramp down duration
+ - Duration of the test
+ - Is baseline results available?
+ - Is performance trend report required?
  
 ### 🔁 Process 
 
