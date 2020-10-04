@@ -8,6 +8,18 @@ No questions are stupid, only the answers are. This repo will list out the quest
 
 ## Questions
 
+### Application/Service
+1. What is the objective of this exercise(performance testing)?
+
+### Environment
+
+### SLAs, SLOs and all about numbers
+
+### Test data
+
+### Tools
+
+
 1. What is the objective of this exercise(performance testing)?
 2. Is it already available in production?
 3. If it is in production, can I get access to the production logs?
