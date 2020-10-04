@@ -5,20 +5,34 @@ As a performance tester/engineer, we have to understand of almost everything abo
 
 No questions are stupid, only the answers are. This repository will list out the questions you can ask to your team.
 
-*Even Einstein asked questions.*
+> *Even Einstein asked questions.*
+
+## Assumptions
+
+- In this context, application means it could web application, services, database etc. Based on the project, you can ask the relevant question.
+- These questions derived based on web protocols.
 
 ## Questions
+
 ### Application/Service
+
  - What is the objective of this exercise(performance testing)?
+ - Known performance issues
+ - Can I get the access to the architecture diagram?
+ - What is the core aspect of the application/service?
  - Tech stack of the application
- - Is the functional testing completed?
+ - Is the functional testing completed? 
+ - Is the application served over HTTPS?
+ - Is the application on cloud?
+ - Is the auto scaling turned on?
 
 ### Environment
 
  - Is it already available in production?
- - If it is in production, can I get access to the production logs?
+    - If it is in production, can I get access to the production logs?
  - Is stage or non-production environment available?
  - Is the test environment identical to the production?
+    - If not, what is the scaled down factor?
  - Is APM solution available?
  - Is the performance testing environment up-to-date?
  - Is the application under test stable?
@@ -27,21 +41,23 @@ No questions are stupid, only the answers are. This repository will list out the
 
  - Who are all the end users?
  - End users demographics
- - End users device preferences.
- - End users network preferences.
+ - End users device preferences
+ - End users network preferences
+ - End users broswer preferences
 
 ### SLAs, SLOs and all about numbers
 
  - What are all the SLAs and SLOs?
- -  How many users/transactions need to be injected?
+ - How many users/transactions need to be injected?
  - Acceptable SLAs: 
-	 - Response time
-	 - Throughput
-	 - CPU
-	 - Memory
-	 - Garbage Collection
-	 - Disk
-	 - Network
+    - Response time
+    - Throughput
+    - CPU
+    - Memory
+    - Garbage Collection
+    - Disk
+    - Network
+ - What is the network virtualization distribution?
 
 ### Test data
 
@@ -53,6 +69,7 @@ No questions are stupid, only the answers are. This repository will list out the
 
  - Is the performance testing tool available?
  - Is the relevant licenses available?
+ - Do we need to inform any other team before we begin the testing?
 
 ### Scripting
 
@@ -66,7 +83,10 @@ No questions are stupid, only the answers are. This repository will list out the
  - Is the workload model design available?
  
 ### Process 
+
  - Before we start the test, do we need to inform any other team?
  - Timeline for the project
  - To whom I can assign the defect?
+ - What is the escalation process?
  - What are all the risks involved in this project and its mitigation plan?
+ - List of contacts of developers, architects, and others
