@@ -1,20 +1,20 @@
 # Performance Engineering Questions
 
-## Overview
+## ✨ Overview
 As a performance tester/engineer, we have to understand of almost everything about the project, application and what not. To acquire that knowledge we need to ask questions to the architects, developers, product owners etc.
 
 No questions are stupid, only the answers are. This repository will list out the questions you can ask to your team.
 
 > *Even Einstein asked questions.*
 
-## Assumptions
+## ❗ Assumptions
 
 - In this context, application means it could web application, services, database etc. Based on the project, you can ask the relevant question.
 - These questions derived based on web protocols.
 
-## Questions
+## ❓ Questions
 
-### Application/Service
+### 🕸 Application/Service
 
  - What is the objective of this exercise(performance testing)?
  - Known performance issues
@@ -26,7 +26,7 @@ No questions are stupid, only the answers are. This repository will list out the
  - Is the application on cloud?
  - Is the auto scaling turned on?
 
-### Environment
+### 🌐 Environment
 
  - Is it already available in production?
     - If it is in production, can I get access to the production logs?
@@ -37,7 +37,7 @@ No questions are stupid, only the answers are. This repository will list out the
  - Is the performance testing environment up-to-date?
  - Is the application under test stable?
 
-### End Users
+### 👨‍👩‍👧‍👦 End Users
 
  - Who are all the end users?
  - End users demographics
@@ -45,7 +45,7 @@ No questions are stupid, only the answers are. This repository will list out the
  - End users network preferences
  - End users broswer preferences
 
-### SLAs, SLOs and all about numbers
+### 🔢 SLAs, SLOs and all about numbers
 
  - What are all the SLAs and SLOs?
  - How many users/transactions need to be injected?
@@ -59,30 +59,30 @@ No questions are stupid, only the answers are. This repository will list out the
     - Network
  - What is the network virtualization distribution?
 
-### Test data
+### 💾 Test data
 
  - Is the test data available?
  - Is the test data reusable?
  - Is there a dedicated team available to help me out to generate test data?
 
-### Tools
+### ⚒️ Tools
 
  - Is the performance testing tool available?
  - Is the relevant licenses available?
  - Do we need to inform any other team before we begin the testing?
 
-### Scripting
+### 📜 Scripting
 
  - Critical scenarios to be tested
  - List of browsers to be tested 
  - List of services and its method to be tested
 
-### Testing
+### 📊 Testing
 
  - Types of performance testing in scope
  - Is the workload model design available?
  
-### Process 
+### 🔁 Process 
 
  - Before we start the test, do we need to inform any other team?
  - Timeline for the project
