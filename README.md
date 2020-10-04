@@ -31,5 +31,11 @@ No questions are stupid, only the answers are. This repo will list out the quest
 21. Is the relevant licenses available?
 22. How many users need to be injected?
 23. Types of performance testing in scope.
-24. Workload Model design
-25. 
+24. Is the workload model design available?
+25. Is the functional testing completed?
+26. Is APM solution available?
+27. Is the performance testing tool available?
+28. What are all the risks involved in this project and its mitigation plan?
+29. Is the performance testing environment up-to-date?
+30. Is the application under test stable?
+31. 
