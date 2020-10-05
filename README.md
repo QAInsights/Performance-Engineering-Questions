@@ -9,8 +9,8 @@ No questions are stupid, only the answers are. This repository will list out the
 
 ## ❗ Assumptions
 
-- In this context, application means it could web application, services, database etc. Based on the project, you can ask the relevant question.
-- These questions derived based on web protocols.
+- In this context, application means it could be web application, services, database etc. Based on the project, you can ask the relevant question.
+- These questions derived based on web protocols. But you can fit the question irrespective of protocol with common sense.
 
 ## ❓ Questions
 
