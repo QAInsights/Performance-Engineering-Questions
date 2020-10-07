@@ -9,8 +9,7 @@ No questions are stupid, only the answers are. This repository will list out the
 
 ## ❗ Assumptions
 
-- In this context, application means it could web application, services, database etc. Based on the project, you can ask the relevant question.
-- These questions derived based on web protocols.
+- In this context, application means it could be a web application or services or database etc. Based on the project, you can ask the relevant questions.
 
 ## ❓ Questions
 
@@ -24,6 +23,9 @@ No questions are stupid, only the answers are. This repository will list out the
  - Is the functional testing completed? 
  - Is the application served over HTTPS?
  - Is the application on cloud?
+   - On-premise
+   - Off-premise
+   - Hybrid
  - Is the auto scaling turned on?
  - Is caching enabled?
  - Is the application load balanced?
@@ -31,6 +33,10 @@ No questions are stupid, only the answers are. This repository will list out the
  - Is proxy required to access the application?
    - Reverse Proxy Settings
    - Forward Proxy Settings
+ - Is the application dockerized?
+ - What is the container orchestration tool?
+   - Kubernetes
+   - Docker Swarm   
 
 ### 🌐 Environment
 
@@ -47,15 +53,18 @@ No questions are stupid, only the answers are. This repository will list out the
 ### 👨‍👩‍👧‍👦 End Users
 
  - Who are all the end users?
- - End users demographics
- - End users device preferences
- - End users network preferences
- - End users broswer preferences
+ - End users' demographics
+ - End users' device preferences
+ - End users' network preferences
+ - End users' broswer preferences
 
 ### 🔢 SLAs, SLOs and all about numbers
 
  - What are all the SLAs and SLOs?
  - How many users/transactions need to be injected?
+ - What is the throughput to achieve?
+   - The context of throughput varies based on the tool you are working.
+   - E.g. it could be number of successful orders per minute or the data (in bytes) transferred between the client and the server
  - Acceptable SLAs: 
     - Response time
     - Throughput
@@ -65,8 +74,9 @@ No questions are stupid, only the answers are. This repository will list out the
     - Disk
     - Network
  - What is the network virtualization distribution?
+ - In case of containers, what could be the acceptable performance metrics at pod/cluster level?
 
-### 💾 Test data
+### 💾 Test Data
 
  - Is the test data available?
  - Is the test data reusable?
