@@ -9,7 +9,12 @@ No questions are stupid, only the answers are. This repository will list out the
 
 ## ❗ Assumptions
 
+<<<<<<< HEAD
 - In this context, application means it could be a web application or services or database etc. Based on the project, you can ask the relevant questions.
+=======
+- In this context, application means it could be web application, services, database etc. Based on the project, you can ask the relevant question.
+- These questions derived based on web protocols. But you can fit the question irrespective of protocol with common sense.
+>>>>>>> 845614ac345d779b8aad7a4bfc92b244b62b4e4b
 
 ## ❓ Questions
 
