@@ -26,6 +26,7 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
  - Tech stack of the application
  - Is the functional testing completed? 
  - Is the application served over HTTPS?
+ - Is it Single Page Application?
  - Is the application on cloud?
    - On-premise
    - Off-premise
@@ -109,6 +110,7 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
  - Duration of the test
  - Is baseline results available?
  - Is performance trend report required?
+ - Is client-side metrics required?
  
 ### 🔁 Process 
 
