@@ -117,6 +117,12 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
  - What are all the risks involved in this project and its mitigation plan?
  - List of contacts of developers, architects, and others
 
+## After asking a question
+
+Once you got the answers, make sure you record it. I use Microsoft OneNote to store all the project related knowledge. You could use a simple notepad with the timestamp or your favorite note-taking app. Make sure you are not violating company/client policy.
+
+Every company has some sort of knowledge management process, you can follow them too.
+
 ## 🙏 Contributions
 
 All kinds of contributions are welcome. Please submit a [PR](https://github.com/QAInsights/Performance-Engineering-Questions/pulls).
