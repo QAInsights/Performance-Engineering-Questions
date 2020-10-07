@@ -53,6 +53,8 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
  - Is the performance testing environment up-to-date?
  - Is the application under test stable?
  - Do I get access to start/stop/restart the servers?
+ - Is any service virtualized?
+ - Is there any billing involved for any sort of services or environments?
 
 ### 👨‍👩‍👧‍👦 End Users
 
