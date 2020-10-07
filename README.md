@@ -62,7 +62,7 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
  - End users' demographics
  - End users' device preferences
  - End users' network preferences
- - End users' broswer preferences
+ - End users' browser preferences
 
 ### 🔢 SLAs, SLOs and all about numbers
 
