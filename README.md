@@ -29,6 +29,8 @@ No questions are stupid, only the answers are. This repository will list out the
  - Is the application load balanced?
  - Is the firewall enabled?
  - Is proxy required to access the application?
+   - Reverse Proxy Settings
+   - Forward Proxy Settings
 
 ### 🌐 Environment
 
