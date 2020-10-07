@@ -7,6 +7,10 @@ No questions are stupid, only the answers are. This repository will list out the
 
 > *Even Einstein asked questions.*
 
+## 🔍 Before asking a question
+
+Before you throw a lot of questions, I suggest you to do some ground work. Gather the details about the project, technical diagrams, internal documentations, also perform an internet search.
+
 ## ❗ Assumptions
 
 - In this context, application means it could be a web application or services or database etc. Based on the project, you can ask the relevant questions.
