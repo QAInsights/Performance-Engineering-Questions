@@ -91,6 +91,8 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
  - What is the network virtualization distribution?
  - In case of containers, what could be the acceptable performance metrics at pod/cluster level?
  - What is the acceptable % of failures?
+ - Do we have any in-house or industry benchmarks to compare?
+ - Do we have any baseline test stats?
 
 ### 💾 Test Data
 
@@ -135,7 +137,7 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
 
  - To whom I should share the report?
  - Do I need to share it daily or weekly?
- - Following are the metrics which wil be available in the report.   
+ - Following are the metrics which will be available in the report.   
    * Minimum response time (ms)
    * Maximum response time (ms)
    * 90th percentile
