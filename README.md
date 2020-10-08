@@ -20,6 +20,10 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
 ### 🕸 Application/Service
 
  - What is the objective of this exercise(performance testing)?
+   - Infrastructure change
+   - New app
+   - User Interface change
+   - Architecture change
  - Known performance issues
  - Can I get the access to the architecture diagram?
  - What is the core aspect of the application/service?
@@ -34,15 +38,18 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
  - Is the auto scaling turned on?
  - Is caching enabled?
  - Is cookies needs to be handled?
+ - Is CDN available?
  - Is the application load balanced?
  - Is the firewall enabled?
  - Is proxy required to access the application?
    - Reverse Proxy Settings
    - Forward Proxy Settings
  - Is the application dockerized?
+ - How authentication works?
  - What is the container orchestration tool?
    - Kubernetes
    - Docker Swarm   
+   - ...
 
 ### 🌐 Environment
 
@@ -123,6 +130,25 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
  - What is the escalation process?
  - What are all the risks involved in this project and its mitigation plan?
  - List of contacts of developers, architects, and others
+ 
+### 💹 Stats
+
+ - To whom I should share the report?
+ - Do I need to share it daily or weekly?
+ - Following are the metrics which wil be available in the report.   
+   * Minimum response time (ms)
+   * Maximum response time (ms)
+   * 90th percentile
+   * Standard Deviation
+   * Histogram
+   * Hits per second
+   * Number of transactions passed
+   * Number of transactions failed
+   * Throughput
+   * Bytes Sent/Received
+   * CPU utilization
+   * Memory utilization
+   * Garbage Collection
 
 ## After asking a question
 
