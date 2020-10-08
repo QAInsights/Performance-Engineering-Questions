@@ -113,6 +113,7 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
  - Is baseline results available?
  - Is performance trend report required?
  - Is client-side metrics required?
+ - Is background noise script required?
  
 ### 🔁 Process 
 
