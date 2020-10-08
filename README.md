@@ -33,6 +33,7 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
    - Hybrid
  - Is the auto scaling turned on?
  - Is caching enabled?
+ - Is cookies needs to be handled?
  - Is the application load balanced?
  - Is the firewall enabled?
  - Is proxy required to access the application?
@@ -82,6 +83,7 @@ Before you throw a lot of questions, I suggest you to do some ground work. Gathe
     - Network
  - What is the network virtualization distribution?
  - In case of containers, what could be the acceptable performance metrics at pod/cluster level?
+ - What is the acceptable % of failures?
 
 ### 💾 Test Data
 
